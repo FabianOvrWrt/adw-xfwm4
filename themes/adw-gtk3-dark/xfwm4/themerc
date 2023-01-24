@@ -1,0 +1,17 @@
+# adw-gtk3-dark theme by OvrWrt
+
+# Colours
+active_text_color=#f2f2f2
+inactive_text_color=#969696
+shadow_opacity=30
+
+# Titles
+full_width_title=true
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+
+# Buttons
+show_app_icon=true
+button_offset=8
+button_spacing=14
+maximized_offset=8

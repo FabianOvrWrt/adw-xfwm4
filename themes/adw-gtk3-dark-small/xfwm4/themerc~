@@ -1,0 +1,11 @@
+# Pop Xfwm theme by Spass
+
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+active_text_color=#2f2f2f
+inactive_text_color=#969696
+button_offset=8
+button_spacing=14
+maximized_offset=8
+show_app_icon=false
+
